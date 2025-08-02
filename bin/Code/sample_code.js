@@ -90,41 +90,6 @@ const backendLibraries = [
   }
 ];
 
-const features = [
-  {
-    title: 'Full-Stack Scaffolding',
-    desc: 'Instantly spin up a complete React + Express + MongoDB project with best practices.',
-    icon: Construction,
-  },
-  {
-    title: 'Clean Project Architecture',
-    desc: 'Organized folder structure following MVC principles for scalability and clarity.',
-    icon: FolderOpen,
-  },
-  {
-    title: 'Environment Configuration',
-    desc: 'Pre-configured .env support and CORS setup for smooth development and deployment.',
-    icon: Settings,
-  },
-  {
-    title: 'Developer Productivity',
-    desc: 'Hot reload, live server restarts, and modern tooling for a seamless dev experience.',
-    icon: Hammer,
-  },
-  {
-    title: 'Database-Ready',
-    desc: 'Mongoose integrated with sample schema and MongoDB connection logic out-of-the-box.',
-    icon: Database,
-  },
-  {
-    title: 'Production-Grade Setup',
-    desc: 'Stable dependency versions, security-focused configs, and scalable structure.',
-    icon: Sparkles,
-  }
-];
-
-
-
   return (
     <div className="min-h-screen bg-white">
       {/* Header */}

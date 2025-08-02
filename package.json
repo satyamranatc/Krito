@@ -1,6 +1,6 @@
 {
   "name": "krito",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold modern full-stack apps with React, Tailwind, Express, and MongoDB — instantly.",
   "main": "index.js",
   "type": "module",
