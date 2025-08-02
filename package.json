@@ -1,0 +1,33 @@
+{
+  "name": "krito",
+  "version": "1.0.0",
+  "description": "Scaffold modern full-stack apps with React, Tailwind, Express, and MongoDB — instantly.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "krito": "bin/index.js"
+  },
+ "scripts": {},
+  "keywords": [
+    "vite",
+    "react",
+    "tailwind",
+    "express",
+    "fullstack",
+    "cli",
+    "krito",
+    "mongodb",
+    "Satyam Rana",
+    "The Prime Step"
+  ],
+  "author": "Satyam Rana",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "execa": "^9.6.0",
+    "fs-extra": "^11.3.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
